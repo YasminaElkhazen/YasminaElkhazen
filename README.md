@@ -9,7 +9,7 @@
 - 💡 Hands-on experience with **AI**, **Machine Learning**, and **Data Science** \  
 - 🌍 Open to research collaborations, AI projects and roles.
 
-![Corporate Girl PC](https://drive.google.com/file/d/19KcxPmg9ynUmjpcs1H2g_kpFGWDXfSDS/view?usp=sharing)
+![Corporate Girl PC](./Generated Image October 30, 2025 - 2_45PM.png)
 
 #### 🛠 &nbsp;Tech Stack
 
