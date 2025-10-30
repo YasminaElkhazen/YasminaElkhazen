@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yasmina</h1>
-<h3 align="center">An Applied Math Engineer</h3>
+<h1 align="center">Hi 👋, I'm Yasmina Elkhazen</h1>
+<h3 align="center">An Applied Mathematics and Modeling Engineer from Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YasminaElkhazen&label=Profile%20views&color=0e75b6&style=flat" alt="YasminaElkhazen" /> </p>
 
