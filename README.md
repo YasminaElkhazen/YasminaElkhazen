@@ -5,8 +5,8 @@
 
 #### 👨🏻‍💻 &nbsp;About Me
 
-- 🎓 Engineering background in **Applied Mathematics & Modeling**  \
-- 💡 Hands-on experience with **AI**, **Machine Learning**, and **Data Science** \  
+- 🎓 Engineering background in **Applied Mathematics & Modeling**  
+- 💡 Hands-on experience with **AI**, **Machine Learning**, and **Data Science**   
 - 🌍 Open to research collaborations, AI projects and roles.
 
 <div align="center"><img src="Generated%20Image%20October%2030%2C%202025%20-%202_45PM.png" alt="Corporate Girl with AI" width="30%" height="30%" ></div>
